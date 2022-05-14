@@ -95,7 +95,8 @@ while others were more interesting to visualize as graphs
 
 ## 4. Conclusion
 
-There were great insights into my own organization whereabouts. This was all summarized in a [presentation](.\Daily%20“to%20do”s%20-%20an%20insight.pdf") I created for myself. As I have done in the notebook, I will list some of the things I have learnt here.
+There were great insights into my own organization whereabouts. This was all summarized in a
+[presentation](./Daily%20“to%20do”s%20-%20an%20insight.pdf) I created for myself. As I have done in the notebook, I will list some of the things I have learnt here.
 
 ### 4.1 What did I learn?
 
