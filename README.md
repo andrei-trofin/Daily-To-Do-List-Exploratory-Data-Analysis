@@ -8,20 +8,20 @@ The kind of work you tend to do more on a daily basis shapes you. Therefore I wa
 
 The main goal here was to extract interesting and telling insights from this data and based on them draw conclusions on what can be improved and also giving myself a pat on the back for tasks I thrive with. I wanted to extract statistics and visuals that would give me the leverage to do that.
 
-A more formal problem definition and summary was given in the [jupyter notebook](./EDA-To-Do-List) associated to this project.
+A more formal problem definition and summary was given in the [jupyter notebook](./EDA%20To%20Do%20List.ipynb) associated to this project.
 
 ## Table of Contents
 <details open>
 <summary>Show/Hide</summary>
 
-1. [File/Folder descriptions](#1.-file//folder-descriptions)
-2. [Data preparation](#2.-data-preparation)
-3. [Exploratory Data analysis](#3.-exploratory-data-analysis)
-    * [3.1 What we search for](#3.1-what-we-search-for)
-    * [3.2 Extracting the statistics](#3.2-extracting-the-statistics)
-4. [Conclusion](#4.-conclusion)
-    * [4.1 What did I learn?](#4.1-what-did-i-learn)
-    * [4.2 Future improvements](#4.2-future-improvements)
+1. [File/Folder descriptions](#1-filefolder-descriptions)
+2. [Data preparation](#2-data-preparation)
+3. [Exploratory Data analysis](#3-exploratory-data-analysis)
+    * [3.1 What we search for](#31-what-we-search-for)
+    * [3.2 Extracting the statistics](#32-extracting-the-statistics)
+4. [Conclusion](#4-conclusion)
+    * [4.1 What did I learn?](#41-what-did-i-learn)
+    * [4.2 Future improvements](#42-future-improvements)
 </details>
 
 ## 1. File/Folder descriptions
@@ -42,7 +42,7 @@ First idea was, of course, manual labour. Then I thought: maybe I could use some
 
 I used Google Sheets to make it easier for me to find categories and such and this was the results I came to:
 
-<img src="images\\todolist-excel.png" width=500/>
+<img src="images/todolist-excel.png" height=350/>
 <br>
 <br>
 
@@ -95,7 +95,7 @@ while others were more interesting to visualize as graphs
 
 ## 4. Conclusion
 
-There were great insights into my own organization whereabouts. This was all summarized in a [presentation](./Daily-“to-do”s-\--an-insight.pdf") I created for myself. As I have done in the notebook, I will list some of the things I have learnt here.
+There were great insights into my own organization whereabouts. This was all summarized in a [presentation](.\Daily%20“to%20do”s%20-%20an%20insight.pdf") I created for myself. As I have done in the notebook, I will list some of the things I have learnt here.
 
 ### 4.1 What did I learn?
 
